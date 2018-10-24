@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;;
+}
+.tube-item{
+    display: inline;
+    margin: 10px;
+    width: 30%;
+    float: left;
+}
+.tube-item iframe {
+    width: 100%;
+}
+h3{
+    text-align: center;
+}
